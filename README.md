@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Richard-Aroh
-- 👀 I’m interested in JavaScript, CSS And Html.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Working together and learing together
-- 📫 How to reach me, Contact me with this number 09034513494
+Hi 👋, I'm Richard
+A passionate frontend developer.
 
-<!---
-Richard-Aroh/Richard-Aroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning React.js
+
+💬 Ask me about HTML, CSS, JavaScript and React.js
+
+⚡ Fun fact I am a Polymath
+
+Connect with me: 09034513494
