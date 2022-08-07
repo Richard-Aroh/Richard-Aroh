@@ -1,10 +1,1 @@
-Hi 👋, I'm Richard
-A passionate frontend developer.
-
-🌱 I’m currently learning React.js
-
-💬 Ask me about HTML, CSS, JavaScript and React.js
-
-⚡ Fun fact I am a Polymath
-
-Connect with me: 09034513494
+A Results-oriented, innovative Front End Web Developer, dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites from start to finish, and successfully managing a team of other software professionals.
